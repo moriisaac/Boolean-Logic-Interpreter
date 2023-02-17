@@ -18,6 +18,8 @@ x AND y OR NOT z
 
 To evaluate this expression, run the interpreter and pass the file path as an argument:
 
+python interpreter.py expressions.txt
+
 
 
 
