@@ -31,6 +31,10 @@ Operators: AND, OR, NOT
 Parentheses: ( and )
 Here are some example expressions
 
+x AND y
+NOT z OR (x AND y)
+(x OR y) AND NOT z
+
 
 
 
