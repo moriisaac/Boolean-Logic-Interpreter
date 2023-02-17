@@ -78,3 +78,9 @@ class BooleanInterpreter:
 
     def let(self, variable, value):
         self.variables[variable] = value
+ 
+
+
+interpreter = BooleanInterpreter()
+
+
