@@ -36,6 +36,18 @@ NOT z OR (x AND y)
 (x OR y) AND NOT z
 
 
+# Contributing
+Pull requests and bug reports are welcome. Please follow the code style and include tests with your changes.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Acknowledgements
+This interpreter was inspired by the Boolean Logic Interpreter project in the book "Automate the Boring Stuff with Python" by Al Sweigart.
+
+
+
+
 
 
 
