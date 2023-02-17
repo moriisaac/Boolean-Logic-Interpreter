@@ -9,6 +9,14 @@ You can download the code from the GitHub repository or clone it using Git:
 
  "git clone https://github.com/yourusername/python-boolean-logic-interpreter.git"
  
+#Usage
+The interpreter reads boolean logic expressions from a text file and evaluates them. The expressions must be in a simple syntax that supports variables, boolean operators, and parentheses.
+
+Here is an example expression file:
+
+
+
+ 
  
 
 
