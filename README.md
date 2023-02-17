@@ -7,3 +7,8 @@ This interpreter requires Python 3.6 or later. There are no additional dependenc
 # Installation
 You can download the code from the GitHub repository or clone it using Git:
 
+ "git clone https://github.com/yourusername/python-boolean-logic-interpreter.git"
+ 
+ 
+
+
