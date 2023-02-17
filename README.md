@@ -20,6 +20,17 @@ To evaluate this expression, run the interpreter and pass the file path as an ar
 
 python interpreter.py expressions.txt
 
+The interpreter will read the expressions from the file and evaluate them. It will print the result of each expression to the console.
+
+# Syntax
+The syntax for boolean expressions is as follows:
+
+Variables: single letters (a-z, A-Z)
+Boolean values: True or False
+Operators: AND, OR, NOT
+Parentheses: ( and )
+Here are some example expressions
+
 
 
 
