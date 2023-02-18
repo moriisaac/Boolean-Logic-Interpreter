@@ -35,7 +35,7 @@ x AND y
 NOT z OR (x AND y)
 (x OR y) AND NOT z
 
----------------
+--------------
 # Contributing
 Pull requests and bug reports are welcome. Please follow the code style and include tests with your changes.
 
